@@ -9,7 +9,7 @@ I found difficult to install a new PHP release (compiler, files to add ...). So 
 ## How to
 
 	Download and copy files in your wamp\scripts directory (for me c:\wamp\scripts)
-	Edit c:\wamp\www\index.php
+	Edit c:\wamp\www\index.php  and
 	
 	In $langues['en'] array, add 
 	   'txtAddMorePhp' => 'Installed PHP versions', 
@@ -34,3 +34,6 @@ I found difficult to install a new PHP release (compiler, files to add ...). So 
 
 	Go to localhost in you browser
 
+
+	
+![Alt view](addMorePhpReleases.png)
